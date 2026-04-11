@@ -56,29 +56,6 @@ Data Sources → Ingestion → Processing → Feature Engineering → Models →
 
 ---
 
-## 📂 Project Structure
-smart-traffic-intelligence-system/
-│
-├── data/
-│ ├── raw/
-│ ├── interim/
-│ ├── processed/
-│ 
-│
-├── src/
-│ ├── ingestion/
-│ ├── processing/
-│ ├── features/
-│ ├── models/
-│ ├── api/
-│ └── utils/
-│
-├── dashboards/
-├── notebooks/
-├── tests/
-├── requirements.txt
-└── README.md
-
 
 ---
 
